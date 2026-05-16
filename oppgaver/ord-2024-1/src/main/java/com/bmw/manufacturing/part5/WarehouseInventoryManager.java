@@ -1,5 +1,8 @@
 package com.bmw.manufacturing.part5;
 
+import java.util.List;
+import java.util.Map;
+
 import no.ntnu.tdt4100.CarPart;
 import no.ntnu.tdt4100.part5.IStockChangeListener;
 import no.ntnu.tdt4100.part5.InventoryManager;
@@ -12,11 +15,13 @@ import no.ntnu.tdt4100.part5.InventoryManager;
  */
 public class WarehouseInventoryManager implements InventoryManager{
 
+    private List<IStockChangeListener> listeners;
+    private Map<CarPart, Integer> stock;
+
     @Override
     public void increaseQuantity(CarPart part, int numberOfItems) {
         if (numberOfItems < 0) {
             return;
-            
         }
         
     }
