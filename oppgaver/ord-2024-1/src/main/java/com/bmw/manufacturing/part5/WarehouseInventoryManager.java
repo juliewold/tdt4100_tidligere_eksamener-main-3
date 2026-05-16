@@ -23,37 +23,41 @@ public class WarehouseInventoryManager implements InventoryManager{
         if (numberOfItems < 0) {
             return;
         }
-        
+        stock.put(part, stock.getOrDefault(part, 0) + numberOfItems);
     }
 
     @Override
     public void decreaseQuantity(CarPart part, int numberOfItems) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'decreaseQuantity'");
+        if (getAvailableQuantity(part) >= numberOfItems) {
+            stock.put(part, stock.getOrDefault(part, 0) - numberOfItems);
+            for (IStockChangeListener listener : listeners) {
+                listener.execute(part, stock.get(part));
+            }
+        }
     }
 
     @Override
     public void addListener(IStockChangeListener listener) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'addListener'");
+        if (!listeners.contains(listener)) {
+            listeners.add(listener);
+        }
     }
 
     @Override
     public void removeListener(IStockChangeListener listener) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'removeListener'");
+        if (listeners.contains(listener)) {
+            listeners.remove(listener);
+        }
     }
 
     @Override
     public int getAvailableQuantity(CarPart part) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'getAvailableQuantity'");
+        return stock.getOrDefault(part, 0);
     }
 
     @Override
     public int getNumberOfListeners() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'getNumberOfListeners'");
+        return listeners.size();
     }
     // TODO Implement the class according to behaviour specified in Javadoc in its interface
 }

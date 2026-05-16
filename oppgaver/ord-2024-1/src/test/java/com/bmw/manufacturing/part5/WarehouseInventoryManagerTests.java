@@ -37,8 +37,8 @@ public class WarehouseInventoryManagerTests {
 
       // TODO Uncomment line below and remove the assertFalse when the WarehouseInventoryManager implements its
       // interface
-      // manager = new WarehouseInventoryManager();
-      assertFalse(true);
+      manager = new WarehouseInventoryManager();
+      // assertFalse(true);
       carPart1 = new CarPart("A", "window", 0);
       carPart2 = new CarPart("B", "window2", 0);
    }
