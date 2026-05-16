@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+
+# maven build folder
+target/

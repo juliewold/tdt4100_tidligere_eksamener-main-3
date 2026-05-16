@@ -1,0 +1,7 @@
+1;2021-09-01T12:00:00
+
+Products ordered;2021-09-01T12:00:12
+Products packed;2021-09-02T09:00:00
+
+Green T-Shirt;3 <product name;number of products in shipment>
+Basic Jeans;2

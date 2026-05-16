@@ -1,0 +1,58 @@
+
+
+@startuml  Task9diagram
+
+package "Class diagram" as cd {
+A <|-- B
+B "*" -r- "*" C
+}
+
+package "Object diagram 1" as od1 {
+object "a : A" as a1
+object "b : B" as c1
+a1 -r- c1
+}
+
+package "Object diagram 2" as od2 {
+object "c : C" as c2
+object "b : B" as b2
+b2 -r- c2
+}
+
+package "Object diagram 3" as od3 {
+object "b : B" as b3
+object "c : C" as c3
+b3 =r= c3
+b3 -r- c3
+}
+
+package "Object diagram 4" as od4 {
+object "c : C" as c4
+
+}
+
+package "Object diagram 5" as od5 {
+object "a : A" as a5
+object "b1 : B" as b51
+object "b2 : B" as b52
+a5 -- b51
+a5 -- b52
+}
+
+package "Object diagram 6" as od6 {
+object "a : A" as a6
+object "b : B" as b6
+object "c : C" as c6
+
+b6 -r- c6
+
+}
+
+
+cd --[hidden]d- od1
+od1 --[hidden]r- od2
+od2 --[hidden]r- od3
+od1 --[hidden]d- od4
+od4 --[hidden]r- od5
+od4 --[hidden]d- od6
+@enduml

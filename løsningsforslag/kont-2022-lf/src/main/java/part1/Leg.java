@@ -1,0 +1,47 @@
+package part1;
+
+/**
+ * Represents the part of a race going from one post to another.
+ * One of them can be the starting or ending post of the race.
+ */
+public class Leg {
+
+	private final Post startPost, endPost;
+
+	/**
+	 * Initializes this Leg with the provided start and end post.
+	 *
+	 * @param startPost the starting post
+	 * @param endPost the ending post
+	 */
+	public Leg(final Post startPost, final Post endPost) {
+		this.startPost = startPost;
+		this.endPost = endPost;
+	}
+
+	/**
+	 * Returns the string representation of this leg.
+	 * Includes the number of the start and end posts, as well as the distance between them.
+	 */
+	@Override
+	public String toString() {
+		return "[Leg from post #%s to post #%s (%s long)]".formatted(startPost.getPostNum(), endPost.getPostNum(), distance());
+	}
+
+	public Post getStartPost() {
+		return startPost;
+	}
+
+	public Post getEndPost() {
+		return endPost;
+	}
+
+	/**
+	 * Computes the distance between the start and end posts.
+	 *
+	 * @return the distance between the start and end posts
+	 */
+	public double distance() {
+		return Post.distance(startPost.getEast(), startPost.getNorth(), endPost.getEast(),  endPost.getNorth());
+	}
+}

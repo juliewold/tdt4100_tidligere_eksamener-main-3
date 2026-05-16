@@ -1,0 +1,90 @@
+productId,name,description,price,stock,vendor
+0145,Basic Sweater (b),A Blue Sweater from Amazon Basics,25.00,100,Amazon Basics
+0300,Airfly,Running Shoes from the future,50.00,50,Nike
+2000,Basic Jeans,Basic blue jeans from Levis,30.00,75,Levis
+0194,Shirt (Blue),15.00,Blue Shirt from H&M,50,H&M
+1000,White Shirt,White shirt from Gap,20.00,150,Gap
+0023,PowerPods,Wireless Earbuds from Apple,150.00,25,Apple
+4998,Tailored Modern Coat,Tailored Modern Coat from Calvin Klein,100.00,25,Calvin Klein
+1500,Skirt (Floral),Floral Skirt from Forever 21,35.00,40,Forever 21
+2500,Basic Shorts,Basic Denim Shorts (H&M),15.00,100,H&M
+0923,PowerPC 2024,A high Performance PC from Dell,1000.00,10,Dell
+0923,PowerPC 2024,A high Performance PC from Dell,.,10,Dell
+0122,Studios,"Studios, the new fresh sound from Beats by Dre",200.00,20,Beats
+0090,K2005,Wireless Keyboard,50.00,30,Logitech
+2394,Performance Mouse,Wireless Mouse from Logitech,20.00,50,Logitech,19
+1120,Basic Pen,Everyday writing pen from Bic,1.00,500,Bic
+2310,Comfort Chair,Ergonomic office chair from Staples,120.00,25,Staples
+4521,Luxury Watch,High-end watch from Rolex,5000.00,5,Rolex
+5410,Designer Sunglasses,Stylish sunglasses from Ray-Ban,150.00,30,Ray-Ban
+3340,Portable Charger,Compact charger from Anker,25.00,100,Anker
+8901,Espresso Machine,Top-of-the-line espresso machine from Breville,300.00,20,Breville
+2210,Noise Cancelling Headphones,Premium headphones from Bose,350.00,15,Bose
+3251,Smart Thermostat,Smart thermostat from Nest,50,Nest
+8711,Electric Toothbrush,High-tech toothbrush from Philips,75.00,40,Philips
+6742,Bluetooth Speaker,Portable speaker from JBL,100.00,70,JBL
+3012,Laptop Stand,Adjustable stand from Amazon Basics,30.00,80,Amazon Basics
+4210,Travel Backpack,Durable backpack from North Face,150.00,25,North Face
+9078,Wireless Mouse,Ergonomic mouse from Logitech,40.00,50,Logitech
+7120,4K TV,Ultra HD TV from Samsung,600.00,20,Samsung
+3201,Fitness Tracker,Fitness tracker from Fitbit,100.00,35,Fitbit
+5109,,Single-serve coffee maker from Keurig,90.00,50,Keurig
+1920,Smart Watch,Latest smart watch from Apple,400.00,45,Apple
+3850,Smartphone,Latest smartphone from Samsung,999.00,30,Samsung
+2901,Tablet,High-end tablet from Apple,800.00,25,Apple
+6312,Smart Light Bulb,Energy-efficient smart bulb from Philips,20.00,100,Philips
+3409,Gaming Console,Next-gen console from Sony,500.00,15,Sony
+4213,Action Camera,Waterproof action camera from GoPro,300.00,20,GoPro
+5201,VR Headset,Immersive VR headset from Oculus,400.00,15,Oculus
+6321,Wireless Router,High-speed router from Netgear,150.00,35,Netgear
+8213,Streaming Device,4K streaming device from Roku,50.00,60,Roku
+1112,External Hard Drive,1TB hard drive from Seagate,60.00,45,Seagate
+9123,Flash Drive,128GB flash drive from SanDisk,20.00,150,SanDisk
+4201,Mechanical Keyboard,Gaming keyboard from Razer,100.00,40,Razer
+5610,Office Desk,Adjustable desk from IKEA,200.00,30,IKEA
+3178,Smart Doorbell,Video doorbell from Ring,150.00,25,Ring
+8902,Electric Kettle,Fast-boiling kettle from Hamilton Beach,40.00,60,Hamilton Beach
+6134,Air Purifier,High-efficiency air purifier from Dyson,400.00,20,Dyson
+7231,Smart Lock,Secure smart lock from August,250.00,30,August
+8321,Pressure Cooker,Multi-use cooker from Instant Pot,100.00,50,Instant Pot
+2980,Robot Vacuum,Automatic vacuum cleaner from iRobot,300.00,20,iRobot
+3190,Smart Scale,Body composition scale from Withings,100.00,25,Withings
+4012,Water Bottle,Insulated bottle from Hydro Flask,30.00,100,Hydro Flask
+5102,Smart Plug,Wi-Fi plug from TP-Link,25.00,75,TP-Link
+6120,Electric Skillet,Non-stick skillet from Presto,50.00,40,Presto
+7203,Smart Smoke Detector,Smoke and CO detector from Nest,120.00,35,Nest
+3140,Portable Air Conditioner,Portable AC unit from LG,400.00,15,LG
+5412,Hair Dryer,Ionic hair dryer from Conair,40.00,60,Conair
+4321,Electric Blanket,Heated blanket from Sunbeam,60.00,40,100.0
+6712,Microwave Oven,Countertop microwave from Panasonic,120.00,30,Panasonic
+9201,Slow Cooker,Programmable slow cooker from Crock-Pot,50.00,50,Crock-Pot
+5112,Food Processor,Multi-function processor from Cuisinart,150.00,25,Cuisinart
+2109,Stand Mixer,Professional mixer from KitchenAid,400.00,20,KitchenAid
+1190,Smart Ceiling Fan,Remote-controlled ceiling fan from Hunter,200.00,25,Hunter
+4310,Ice Cream Maker,Home ice cream maker from Cuisinart,80.00,30,Cuisinart
+2190,Heated Mattress Pad,Queen size mattress pad from Sunbeam,70.00,40,Sunbeam
+5012,Smart Bulb Kit,Color-changing bulb kit from Philips Hue,200.00,50,Philips Hue
+3191,Electric Wine Opener,Automatic opener from Oster,30.00,70,Oster
+5310,Smart Refrigerator,Wi-Fi connected fridge from Samsung,2500.00,10,Samsung
+,,,,,Bluetooth Headphones,On-ear headphones from Sony,80.00,45,Sony
+6310,Smartwatch Charger,Magnetic charger from Apple,40.00,80,Apple
+4319,Digital Photo Frame,Wi-Fi frame from Nixplay,150.00,20,Nixplay
+6720,Electric Toothbrush,Rechargeable brush from Oral-B,60.00,60,Oral-B
+7123,Electric Pressure Cooker,10-in-1 cooker from Ninja,130.00,40,Ninja
+9143,Blender,Professional blender from Vitamix,450.00,15,Vitamix
+7120,Smart Lock,Keyless entry lock from Schlage,200.00,30,Schlage
+3145,Smart Home Hub,Voice-controlled hub from Amazon,100.00,35,Amazon
+5678,Air Fryer,Oil-less fryer from Philips,120.00,30,Philips
+1290,Smart Water Bottle,Hydration tracking bottle from HidrateSpark,55.00,70,HidrateSpark
+2143,Portable Projector,Mini projector from Anker,250.00,25,Anker
+3981,Streaming Stick,4K streaming stick from Amazon,50.00,80,Amazon
+5120,Home Security System,Complete system from SimpliSafe,300.00,20,SimpliSafe
+6131,Smart Garage Door Opener,Wi-Fi opener from Chamberlain,200.00,25,Chamberlain
+8023,Noise Machine,White noise machine from LectroFan,50.00,60,LectroFan
+9023,Smart Baby Monitor,Wi-Fi baby monitor from Nanit,300.00,15,Nanit
+6710,Portable Blender,USB blender from BlendJet,40.00,70,BlendJet
+5321,Robot Lawn Mower,Automatic mower from Worx,1000.00,10,Worx
+3124,Electric Screwdriver,Rechargeable screwdriver from BLACK+DECKER,30.00,50,BLACK+DECKER
+4209,Smart Light Switch,Voice-controlled switch from Lutron,50.00,40,Lutron
+6123,Window AC Unit,Energy-efficient unit from GE,300.00,25,GE
+5672,Digital Thermometer,Instant-read thermometer from ThermoWorks,

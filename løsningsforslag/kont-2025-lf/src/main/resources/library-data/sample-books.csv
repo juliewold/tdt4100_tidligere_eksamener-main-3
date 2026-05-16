@@ -1,0 +1,14 @@
+isbn,title,author,noPages
+978-0-7475-3269-6,"Harry Potter and the Philosopher's Stone",J.K. Rowling,223
+978-0-544-00341-5,The Hobbit,J.R.R. Tolkien,310
+978-0-452-28423-4,1984,George Orwell,328
+978-0-316-76948-0,The Catcher in the Rye,J.D. Salinger,224
+978-0-06-112008-4,To Kill a Mockingbird,Harper Lee,281
+978-0-7432-7356-5,The Da Vinci Code,Dan Brown,454
+978-0-345-39180-3,The Hitchhiker's Guide to the Galaxy,Douglas Adams,224
+978-0-375-41398-8,"The Kite Runner, A Story of Friendship",Khaled Hosseini,372
+978-1-4000-3342-4,Life of Pi,Yann Martel,319
+978-0-7475-3269-6,"Harry Potter and the Philosopher's Stone",J.K. Rowling,223
+978-0-062-31562-1,The Alchemist,Paulo Coelho,163
+invalid-isbn,Invalid Book,Unknown Author,INVALID_PAGES
+978-0-7653-0818-6,The Name of the Wind,Patrick Rothfuss,662

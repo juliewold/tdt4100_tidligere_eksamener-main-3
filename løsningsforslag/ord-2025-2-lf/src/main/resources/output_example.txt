@@ -1,0 +1,27 @@
+Ola Nordmann;91234567
+
+1;Trek Domane AL 2 Frame;Trek;7000
+1;RockShox Sektor RL Fork;RockShox;3000
+1;Mavic Aksium Elite Front Wheel;Mavic;1200
+1;Mavic Aksium Elite Rear Wheel;Mavic;1200
+2;Continental Grand Prix 5000 Tire;Continental;600
+2;Schwalbe Tube 700c x 25-32;Schwalbe;200
+1;KMC X11 Chain;KMC;500
+1;Shimano 105 Crankset;Shimano;1500
+1;Shimano 105 Chainrings;Shimano;700
+1;Shimano SM-BBR60 Bottom Bracket;Shimano;400
+1;Shimano 105 Cassette 11-speed;Shimano;800
+1;Shimano 105 Front Derailleur;Shimano;400
+1;Shimano 105 Rear Derailleur;Shimano;800
+2;Shimano 105 Shifters;Shimano;1200
+2;Tektro R312 Brake Levers;Tektro;600
+2;Tektro V-Brakes;Tektro;1000
+4;Shimano B01S Brake Pads;Shimano;300
+1;Zipp Service Course Handlebar;Zipp;800
+1;Zipp Service Course Stem;Zipp;500
+1;Fizik Aliante Saddle;Fizik;1200
+1;Easton EA70 Seatpost;Easton;600
+1;Dimension Seatpost Clamp;Dimension;150
+2;Shimano PD-M520 Pedals;Shimano;400
+
+29950.0
